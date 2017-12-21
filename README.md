@@ -1,3 +1,15 @@
+# Todos UI React
+This is a react UI that interacts with an Http API to control the editing and creation of a todo list. You can find ther server API here: https://github.com/Pleeper228/todos-server-django
+
+To run the App make sure the API server running and listening on http://127.0.0.1:8000
+```
+npm install
+npm run start
+```
+The UI is now available at http://127.0.0.1:3000
+
+---
+## Original create react app README below
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
