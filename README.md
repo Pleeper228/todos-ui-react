@@ -9,7 +9,7 @@ npm run start
 The UI is now available at http://127.0.0.1:3000
 
 ---
-## Original create react app README below:
+## Original Create React App README below:
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
