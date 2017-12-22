@@ -1,5 +1,5 @@
 # Todos UI React
-This is a react UI that interacts with an Http API to control the editing and creation of a todo list. You can find ther server API here: https://github.com/Pleeper228/todos-server-django
+This is a react UI that interacts with an Http API to control the editing and creation of a To-Do list. You can find ther server API here: https://github.com/Pleeper228/todos-server-django
 
 To run the App make sure the API server is running and listening on http://127.0.0.1:8000
 ```
